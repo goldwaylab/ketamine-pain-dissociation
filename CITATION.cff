@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the preprint below."
+title: "The Analgesic and Dissociative Properties of Ketamine are Separate and Correspond to Distinct Neural Mechanisms"
+type: software
+license: MIT
+repository-code: "https://github.com/goldwaylab/ketamine-pain-dissociation"
+authors:
+  - family-names: Goldway
+    given-names: Noam
+  - family-names: Hendler
+    given-names: T.
+  - family-names: Jalon
+    given-names: I.
+  - family-names: Pasternak
+    given-names: Y.
+  - family-names: Sar-El
+    given-names: R.
+  - family-names: Mirelman
+    given-names: D.
+  - family-names: Sarna
+    given-names: N.
+  - family-names: Green
+    given-names: N.
+  - family-names: Agbaria
+    given-names: Y.
+  - family-names: Sharon
+    given-names: H.
+preferred-citation:
+  type: article
+  title: "The Analgesic and Dissociative Properties of Ketamine are Separate and Correspond to Distinct Neural Mechanisms"
+  journal: bioRxiv
+  doi: 10.1101/2025.07.25.666594
+  year: 2025
+  authors:
+    - family-names: Goldway
+      given-names: Noam
+    - family-names: Hendler
+      given-names: T.
+    - family-names: Jalon
+      given-names: I.
+    - family-names: Pasternak
+      given-names: Y.
+    - family-names: Sar-El
+      given-names: R.
+    - family-names: Mirelman
+      given-names: D.
+    - family-names: Sarna
+      given-names: N.
+    - family-names: Green
+      given-names: N.
+    - family-names: Agbaria
+      given-names: Y.
+    - family-names: Sharon
+      given-names: H.
