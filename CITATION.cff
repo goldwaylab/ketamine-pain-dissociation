@@ -1,54 +1,54 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite the preprint below."
-title: "The Analgesic and Dissociative Properties of Ketamine are Separate and Correspond to Distinct Neural Mechanisms"
+message: "If you use this code or data, please cite the article below."
+title: "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates"
 type: software
 license: MIT
 repository-code: "https://github.com/goldwaylab/ketamine-pain-dissociation"
 authors:
   - family-names: Goldway
     given-names: Noam
-  - family-names: Hendler
-    given-names: T.
   - family-names: Jalon
-    given-names: I.
-  - family-names: Pasternak
-    given-names: Y.
-  - family-names: Sar-El
-    given-names: R.
-  - family-names: Mirelman
-    given-names: D.
-  - family-names: Sarna
-    given-names: N.
-  - family-names: Green
-    given-names: N.
+    given-names: Itamar
   - family-names: Agbaria
-    given-names: Y.
+    given-names: Yara
+  - family-names: Pasternak
+    given-names: Yotam
+  - family-names: Sar-El
+    given-names: Roi
+  - family-names: Mirelman
+    given-names: Dan
+  - family-names: Sarna
+    given-names: Noam
+  - family-names: Green
+    given-names: Nili
+  - family-names: Hendler
+    given-names: Talma
   - family-names: Sharon
-    given-names: H.
+    given-names: Haggai
 preferred-citation:
   type: article
-  title: "The Analgesic and Dissociative Properties of Ketamine are Separate and Correspond to Distinct Neural Mechanisms"
-  journal: bioRxiv
-  doi: 10.1101/2025.07.25.666594
-  year: 2025
+  title: "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates"
+  journal: Neuropsychopharmacology
+  doi: 10.1038/s41386-026-02496-x
+  year: 2026
   authors:
     - family-names: Goldway
       given-names: Noam
-    - family-names: Hendler
-      given-names: T.
     - family-names: Jalon
-      given-names: I.
-    - family-names: Pasternak
-      given-names: Y.
-    - family-names: Sar-El
-      given-names: R.
-    - family-names: Mirelman
-      given-names: D.
-    - family-names: Sarna
-      given-names: N.
-    - family-names: Green
-      given-names: N.
+      given-names: Itamar
     - family-names: Agbaria
-      given-names: Y.
+      given-names: Yara
+    - family-names: Pasternak
+      given-names: Yotam
+    - family-names: Sar-El
+      given-names: Roi
+    - family-names: Mirelman
+      given-names: Dan
+    - family-names: Sarna
+      given-names: Noam
+    - family-names: Green
+      given-names: Nili
+    - family-names: Hendler
+      given-names: Talma
     - family-names: Sharon
-      given-names: H.
+      given-names: Haggai

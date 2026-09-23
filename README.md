@@ -1,8 +1,8 @@
-# The Analgesic and Dissociative Properties of Ketamine are Separate and Correspond to Distinct Neural Mechanisms
+# Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates
 
 _Goldway et al._
 
-Analysis code and data to reproduce the statistical results in our ketamine–pain dissociation study ([Goldway et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.25.666594v1)).
+Analysis code and data to reproduce the statistical results in our ketamine–pain dissociation study ([Goldway et al., *Neuropsychopharmacology*, 2026](https://doi.org/10.1038/s41386-026-02496-x); earlier [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.07.25.666594v1)).
 
 ## What is included
 
@@ -90,4 +90,4 @@ install.packages(c(
 
 ## Citation
 
-Goldway, Noam, Talma Hendler, Itamar Jalon, Yotam Pasternak, Roy Sar-El, Dan Mirelman, Noam Sarna, Nili Green, Yara Agbaria, and Haggai Sharon. "The Analgesic and Dissociative Properties of Ketamine are Separate and Correspond to Distinct Neural Mechanisms." *bioRxiv* (2025): 2025-07.
+Goldway, Noam, Talma Hendler, Itamar Jalon, Yotam Pasternak, Roy Sar-El, Dan Mirelman, Noam Sarna, Nili Green, Yara Agbaria, and Haggai Sharon. "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates." *bioRxiv* (2025): 2025-07.
